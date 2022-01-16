@@ -1,1 +1,1 @@
-print("hello world , today")
+print("to day is sunday")
